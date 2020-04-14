@@ -1,0 +1,21 @@
+{
+  "name": "entertainme",
+  "version": "1.0.0",
+  "description": "phase3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "eryn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "mongodb": "^3.5.5"
+  }
+}
